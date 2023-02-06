@@ -4,12 +4,14 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-}
-
-body {
     font-family: 'Roboto Condensed';
     overflow-x: hidden;
 }
+
+/* body {
+    font-family: 'Roboto Condensed';
+    overflow-x: hidden;
+} */
 
 ul {
     list-style: none;
